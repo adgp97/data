@@ -1,0 +1,115 @@
+IMPULSO
+
+awesome oscillator
+belkhayate timing
+centro de gravedad
+chande forecast oscillator
+correlacion de fuerza
+demarker
+indicador de divergencia
+indice de impulso de intradia
+know sure thing
+macd
+momentum
+oscilador de aroon
+oscilador estocastico
+oscilador gator
+oscilador de impulso de chandl CMO
+oscilador de klinger
+oscilador de precio sin tendencia DPO
+pretty good oscillator
+price momentum oscillator
+price oscillator
+rainbow oscillator
+rango de porcentaje de williams
+relative strenght index RSI
+schaff trend cycle
+special k
+stochastic momentum index
+TRIX
+tasa de cambio ROC
+ultimate oscillator
+vortex indicator
+woodies cci
+indice de fuerza verdadera
+
+TENDENCIA
+
+ATR trailing stops
+aroon
+bollinger bands %B
+chop zone
+commodity channel index
+darvas box
+disparity index
+ehler fisher transform
+elder impulse system
+ichimoku cloud
+indicador dinamico de mcginley
+indicador de masa
+KDJ
+linear regression forecast
+linear regression slope
+qstick
+random walk index
+relative vigor index
+SAR parabolico
+trend intensity index
+zigzag
+indice medio de movimiento direccional
+
+VOLATILIDAD
+
+ATR bands
+bandas de bollinger
+canales de donchain
+donchain width
+gopalakrishnan range index
+high low bands
+historical volatility
+keltner channels
+rango medio verdadero
+relative volatility
+STARC bands
+standard deviation
+colatilidad de chaikin
+
+MEDIAS MOVILES	
+
+envelopes
+media movil adaptativa de kaufman KAMA
+media movil arnaud legoux ALMA
+media movil de minimos cuadrados LSMA
+medias moviles
+medias moviles arcoiris
+moving average deviation
+
+VOLUMEN
+
+accumulation/distribution
+oscilador de volumen
+volumen neto
+weis wave volume (volumen de onda de weis)
+
+OTROS
+
+accumulative swing index
+bollinger bands width
+choppiness index
+curva de coppock
+elder ray index
+fractal
+fractal chaos bands
+fractal chaos oscillator
+high - low
+highest high
+linear regression intercep
+linear regression R2
+lowest low
+limite de chande kroll CKS
+prime number bands
+prime number oscillator
+psychological line
+shinohara intensity ratio
+swing index
+ulcer index
